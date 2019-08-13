@@ -7,7 +7,7 @@ For example, a 6-digit clock will need:
 - 4 MIDDLE
 - 1 RIGHT
 
-If you need a 3D print done, the cheapest option I've seen (at least here in the States) is [3DHubs.com](http://www.3dhubs.com). Make sure they are printing with the top-side down to save a lot on not having to print supports.
+If you need a 3D print done, the cheapest option I've seen (at least here in the States) is [3DHubs.com](http://www.3dhubs.com). Make sure they are printing with the top-side down to save a lot on not having to print supports. Select Black PLA at 300 micron layer height for the cheapest cost.
 
 However, if you don't yet have a 3D printer...get one! Seriously, get one. I put if off for years thinking parts were brittle or ugly. With a modern printer you can only make a brittle or ugly part intentionally.
 
