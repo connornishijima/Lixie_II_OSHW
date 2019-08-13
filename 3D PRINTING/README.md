@@ -1,3 +1,5 @@
+![Lixie Bases](https://i.imgur.com/MH40PLQ.jpg)
+
 These are STL files for 3D printing a base for your Lixie II displays! There's one piece per digit, use the left/right caps for the ends.
 
 If you need a 3D print done, the cheapest option I've seen (at least here in the States) is [3DHubs.com](http://www.3dhubs.com). Make sure they are printing with the top-side down to save a lot on not having to print supports.
