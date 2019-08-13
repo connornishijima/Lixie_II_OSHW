@@ -1,4 +1,4 @@
-![Lixie Bases](https://i.imgur.com/MH40PLQ.jpg)
+![Lixie Bases](https://i.imgur.com/cPeoBHg.jpg)
 
 These are STL files for 3D printing a base for your Lixie II displays! There's one piece per digit, use the left/right caps for the ends.
 
