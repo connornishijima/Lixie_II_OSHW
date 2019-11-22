@@ -9,6 +9,8 @@ For example, a 6-digit clock will need:
 - 4 MIDDLE
 - 1 RIGHT
 
+They use 2x M3 screws/nuts to connect one piece to the next, which are [available in a pack on Amazon](https://www.amazon.com/Sutemribor-320Pcs-Stainless-Button-Assortment/dp/B07CYNKLT2/ref=sxin_2_ac_d_pm).
+
 If you need a 3D print done, the cheapest option I've seen (at least here in the States) is [3DHubs.com](http://www.3dhubs.com). Make sure they are printing with the top-side down to save a lot on not having to print supports. Select Black PLA at 300 micron layer height for the cheapest cost.
 
 However, if you don't yet have a 3D printer...get one! Seriously, get one. I put if off for years thinking parts were brittle or ugly. With a modern printer you can only make a brittle or ugly part intentionally.
